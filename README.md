@@ -2,6 +2,6 @@ DotViewerFX
 ===========
 DotViewerFX is an extension of the Java FX class ImageView for displaying graphs in the dot format with Graphviz cammand line program. 
 
-== Dependencies ==
+Dependencies:
 An existing installation of Graphviz
 http://www.graphviz.org
